@@ -21,3 +21,5 @@ and technology investment practice. He has more than 15 years of experience oper
 including artificial intelligence, networked information systems, robotics, supply chain automation, and enterprise 
 information technology. He holds advisory board roles at the University of Michigan College of Engineering, Worcester 
 Polytechnic Institute, and Andrew W. Marshall Foundation.
+
+<!-- This content will not appear in the rendered Markdown -->
