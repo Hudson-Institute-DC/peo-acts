@@ -1,4 +1,4 @@
-![Jason Weiss Headshot](/images/headshot-weiss.png)
+![Jason Weiss Headshot](images/headshot-weiss.png)
 ## Jason Weiss
 
 Jason Weiss brings an exceptional background in software engineering architecture and cryptology dating back to his 
@@ -10,7 +10,7 @@ software modernization policy and guidance, and was a co-author of the DoD’s S
 positions held include vice president, IT transformation, at BAE Systems, Inc., and senior vice president, cloud 
 platform and applications, at SMARTRAC N.V.
 
-![Dan Patt Headshot](/images/headshot-patt.png)
+![Dan Patt Headshot](images/headshot-patt.png)
 ## Dan Patt
 Dan Patt is a senior fellow with Hudson Institute’s Center for Defense Concepts and Technology. His experience is at 
 the intersection of technology, business, and national security strategy. His work at Hudson focuses on the role of 
