@@ -17,6 +17,11 @@ Based on a work at https://github.com/Hudson-Institute-DC/peo-acts.
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ### About this Work
+
+[Table of Contents](toc.md)
+
+[The six ACTS and their corollaris](images/figure-1.png)
+
 There is a profound recognition that the principles and corollaries captured in the ACTS will evolve and change over 
 time, just like software. In [Introduction](introduction.md), we openly disclosed that the focus of this report is 
 primarily the software arm of the digital triad, inviting those with rich industry expertise in data and AI/ML to build 
@@ -45,3 +50,4 @@ actions.
 The GitHub repository can be found in this location: 
 
 [https://github.com/Hudson-Institute-DC/peo-acts](https://github.com/Hudson-Institute-DC/peo-acts)
+
