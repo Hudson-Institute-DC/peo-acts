@@ -17,7 +17,7 @@ proliferated, the coupling in this loop becomes tighter and the linkages become 
 (see figure 2). The design, implementation, and deployment of software produce vast amounts of digital data whether 
 the target environment is the cloud, a sensor at the tactical edge, or an embedded system in a warfighting platform.
 
-![Figure 2 depicting Military Operations, Data, Capability Development, and Software Development Are Deeply (and Beneficially) Intertwined](images/figure-2.png)
+![Military Operations, Data, Capability Development, and Software Development Are Deeply (and Beneficially) Intertwined](images/figure-2.png)
 
 That data is labeled, curated, and made accessible to data scientists looking to design and build next-generation AI or 
 ML models. Scientists can extract the value of any of these AI/ML models only once they integrate a model back into a 

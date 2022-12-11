@@ -93,7 +93,7 @@ distributed forward electro-optical and passive radio-frequency sensing in the b
 physical size to reduce its own optical signature, and baiting adversary systems into illuminating it with active 
 radars to give away their own location.
 
-![Figure showing contract structure for systems-of-systems should reflect desired system modularity](images/figure-3.png)
+![Contract structure for systems-of-systems should reflect desired system modularity](images/figure-3.png)
 
 The program office elected to acquire these systems from two different prime contractors, with subcontractors providing 
 key mission systems. After the contractors delivered each aircraft and its subsystems, the DoD pushed them through a 
@@ -264,7 +264,7 @@ Table 1 illustrates some aspects of military systems that are relatively easier 
 project becomes harder to change over time, it is now possible to maintain more aspects in a fluid state. Choosing these 
 aspects and allowing for their continual modification will be the essence of an adaptability advantage.
 
-![Table showing how gaining an adaptability advantage across a Force Design involves pushing some elements of capability to Regions of the design space where change is relatively easy](images/table-1.png)
+![Gaining an adaptability advantage across a Force Design involves pushing some elements of capability to Regions of the design space where change is relatively easy](images/table-1.png)
 
 As joint warfighting and multi-element kill chains, possibly enabled by uncrewed systems and artificial intelligence, 
 become part of the future of warfare, it implies an architectural shift from relatively monolithic software 

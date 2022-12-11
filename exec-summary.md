@@ -86,4 +86,4 @@ We recognize the inherent tension between making a report compact and accessible
 broad and fast-changing scene. To balance this, we believe that we have focused this report on the most impactful 
 aspects of software acquisition.
 
-![Graphic depicting the six ACTS and their corollaries in a clockwise circle](images/figure-1.png)
+![The six ACTS and their corollaries in a clockwise circle](images/figure-1.png)
