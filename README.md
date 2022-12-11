@@ -20,7 +20,16 @@ Based on a work at https://github.com/Hudson-Institute-DC/peo-acts.
 
 [Table of Contents](toc.md)
 
-[The six ACTS and their corollaris](images/figure-1.png)
+[The six ACTS and their corollaries (graphic)](images/figure-1.png)
+
+While the body of the report is critical in framing the ACTS, if you seek to jump straight into the ACTS themselves:
+
+* [ACTS 1: Evaluate Existing Software Factories before Building Your Own](acts-1.md)
+* [ACTS 2: Partner with an Authorizing Official to Realize a Continuous Authorization to Operate](acts-2.md)
+* [ACTS 3: Own Your APIs, Even More So Than the Implementation](acts-3.md)
+* [ACTS 4: Behave Like a Software Recruiter](acts-4.md)
+* [ACTS 5: Think in Service Levels](acts-5.md)
+* [ACTS 6: ACTS 6: Define Zero-Trust Outcomes within Software Applications](acts-6.md)
 
 There is a profound recognition that the principles and corollaries captured in the ACTS will evolve and change over 
 time, just like software. In [Introduction](introduction.md), we openly disclosed that the focus of this report is 
