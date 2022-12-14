@@ -70,9 +70,9 @@ intellectual property posture or contract structure. It avoids believing in pape
 percent reliability. The EA of Amazon’s, Microsoft’s, and Google’s cloud is likely very impressive, but let’s not 
 forget recent headlines:
 
-* Google Cloud Outage Takes Major Websites and Apps“ ߪ Down”<sup>73</sup>
-* Extended AWS Outage Disrupts Services across the“ ߪ Globe”<sup>74</sup>
-* Azure’s DNS Problem Highlights Fallibility in Cloud Ser“ ߪ vices”<sup>75</sup>
+* Google Cloud Outage Takes Major Websites and Apps Down”<sup>73</sup>
+* Extended AWS Outage Disrupts Services across the Globe”<sup>74</sup>
+* Azure’s DNS Problem Highlights Fallibility in Cloud Services”<sup>75</sup>
 
 When commercial tech giants like Google, Amazon, and Microsoft cannot achieve 100 percent reliability and speed of data 
 in motion, PEOs cannot accept the position that if they get the EA right, everything else will just work. Never accept 
